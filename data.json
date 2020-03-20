@@ -1,0 +1,19 @@
+{
+"farm_name": "Ferme de la Defense",
+"animal list" : [
+{
+"type" : "poule",
+"sex" : "female",
+            "birthdate" : "23 Aout 1999",
+            "adult age" : "1",
+            "retirement age" : "3"
+        },
+        {
+            "type" : "vache laitière",
+            "sex" : "female",
+            "birthdate" : "28 aout 1999",
+            "adult age" : "2",
+            "retirement age" : "6"
+        }
+    ]
+}
